@@ -1,0 +1,41 @@
+.header-section{
+	font-family: 'Nunito Sans', sans-serif;
+	Margin-left: 200px;
+	Margin-right: 200px;
+	line-height: 2;
+	text-align: center;
+}
+
+.article-body{
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+.iframe{
+	justify-content: center;
+	display: flex;
+}
+
+p{
+	Margin-left: 200px;
+	Margin-right: 200px;
+	line-height: 2;
+}
+
+.pic{
+	justify-content: center;
+	display: flex;
+}
+
+.caption{
+	justify-content: center;
+	display: flex;
+}
+
+figcaption{
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: small;
+	text-align: center; 
+	margin-left: 400px;
+	margin-right: 400px;
+	font-style: italic;
+}
